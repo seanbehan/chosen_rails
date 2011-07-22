@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = ChosenRails::VERSION
   s.authors     = ["Sean Behan"]
   s.email       = ["bseanvt@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://github.com/bseanvt/chosen_rails"
+  s.summary     = %q{Chosen jQuery Plugin for Rails 3.1 Asset Pipeline}
+  s.description = %q{This plugin turns unsightly select boxes into pretty, searchable, drop down unordered list that you can style.}
 
   s.rubyforge_project = "chosen_rails"
 
